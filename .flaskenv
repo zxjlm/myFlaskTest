@@ -1,2 +1,3 @@
 FLASK_APP=flaskr
 FLASK_ENV=development
+FLASK_SERVER_NAME=0.0.0.0
